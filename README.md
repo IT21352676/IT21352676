@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IT21352676](https://github.com/IT21352676)
 
-- 📝 I regularly write articles on [https://medium.com/@hirushasasanka8316](https://medium.com/@hirushasasanka8316)
+- 📝 Check ou my portfolio [https://hirushauniverse.netlify.app](https://hirushauniverse.netlify.app)
 
 - 💬 Ask me about **Flutter React Java**
 
